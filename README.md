@@ -1,5 +1,5 @@
-#Dự án LaTex - môn Kỹ năng làm việc nhóm 
-#Thành viên dự án:
+# Dự án LaTex - môn Kỹ năng làm việc nhóm 
+# Thành viên dự án:
     ▪ Phạm Minh Trí – 20280106
     ▪ Trần Minh Tiến – 20280099
     ▪ Cao Huỳnh Anh Khoa – 20280053
