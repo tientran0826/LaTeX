@@ -9,3 +9,5 @@
    -  ĐƯỢC SỬ DỤNG RỘNG RÃI TRONG LĨNH VỰC HỌC THUẬT BỞI VÌ KHẢ NĂNG THỂ HIỆN CÁC KÝ HIỆU TOÁN HỌC
    -  LATEX TẬP TRUNG VÀO CHẤT LƯỢNG NỘI DUNG VÀ CẤU TRÚC FILE
    -  LATEX MIỄN PHÍ
+### VÍ DỤ VỀ TÀI LIỆU ĐƯỢC VIẾT BẰNG LATEX
+![Tài liệu viết bằng Latex](https://s3.amazonaws.com/libapps/accounts/109251/images/Screen_Shot_2017-01-06_at_4.18.48_PM.png)
