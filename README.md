@@ -1,4 +1,4 @@
-# Dự án LaTex - môn Kỹ năng làm việc nhóm 
+# Dự án LaTex - môn Kỹ năng làm việc nhóm -HK2/2021 - Trường ĐH Khoa Học Tự Nhiên -ĐHQG TP HCM
 ## Thành viên dự án:
     ▪ Phạm Minh Trí – 20280106
     ▪ Trần Minh Tiến – 20280099
