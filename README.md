@@ -6,4 +6,5 @@
     ▪ Nguyễn Quốc Tiến – 20280098
     ▪ Võ Thái Bình – 20280007
     ▪ Võ Hà Giang - 20110172
+*Latex là gì ?
    
