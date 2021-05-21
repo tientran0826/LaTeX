@@ -11,5 +11,6 @@
     Online qua Discord
 
 ## Playlist Video giảng dạy
+    [Youtube](https://youtube.com/playlist?list=PLB809sb72oIFgm3hluJVWeUnyRMZfRDl7)
     
    
