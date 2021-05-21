@@ -16,6 +16,6 @@
    [Youtube](https://youtube.com/playlist?list=PLB809sb72oIFgm3hluJVWeUnyRMZfRDl7)
    
 ## Tài liệu đã tham khảo cho dự án
-  [Overleaf learn LaTeX](https://www.overleaf.com/learn/latex/)
-  [LaTex Tutorial for Beginners Full Course - Academic Lesson](https://youtu.be/fCzF5gDy60g)
+  - [Overleaf learn LaTeX](https://www.overleaf.com/learn/latex/)
+  - [LaTex Tutorial for Beginners Full Course - Academic Lesson](https://youtu.be/fCzF5gDy60g)
     
