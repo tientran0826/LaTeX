@@ -15,3 +15,7 @@
 ## Playlist Video giảng dạy
    [Youtube](https://youtube.com/playlist?list=PLB809sb72oIFgm3hluJVWeUnyRMZfRDl7)
    
+## Tài liệu đã tham khảo cho dự án
+    https://www.overleaf.com/learn/latex/
+    https://www.youtube.com/watch?v=fCzF5gDy60g&t=485s
+    
