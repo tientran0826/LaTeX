@@ -1,0 +1,12 @@
+\documentclass[15pt]{article}
+\usepackage[utf8]{vietnam}
+\usepackage{amsmath}
+\title{First document}
+\author{Hubert Farnsworth \thanks{funded by Meomeomeo} }
+\date{February 2021}
+
+\begin{document}   
+\begin{titlepage} 
+\maketitle
+ \end{titlepage}
+\end{document}
