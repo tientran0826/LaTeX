@@ -95,12 +95,26 @@
    
    Các lệnh bổ trợ cho gói
    
-      \pagestyle{fancy} Khai báo page style của gói vừa khai báo
-      \rhead{Nội dung} tiêu đề góc trên bên phải
-      \lhead{Nội dung} Tiêu đề góc trên bên trái
-      \rfoot{Nội dung}  Tiêu đề góc chân bên phải
-      \thepage Số trang
+   Khai báo page style của gói vừa khai báo
+   
+      \pagestyle{fancy} 
+      
+   Tiêu đề góc trên bên phải
+   
+      \rhead{Nội dung} 
+      
+   Tiêu đề góc trên bên trái
+   
+   
+      \lhead{Nội dung}
+      
+   Tiêu đề góc chân bên phải
+   
+      \rfoot{Nội dung}
+      
+   Số trang
     
+      \thepage 
   
 
 
