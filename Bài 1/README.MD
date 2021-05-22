@@ -89,6 +89,27 @@
    ![image](https://user-images.githubusercontent.com/79437149/119212602-b4e23c00-bae3-11eb-9b22-008d9beb4d9d.png)
    ![image](https://user-images.githubusercontent.com/79437149/119212609-bad81d00-bae3-11eb-9bbe-d4b2a78a6ac0.png)
    #### CUSTOM THANH HEADER BẰNG GÓI
+   ![image](https://user-images.githubusercontent.com/79437149/119212879-73529080-bae5-11eb-84c7-8d27fef515e3.png)
+
+       documentclass[15pt]{article}
+      \usepackage[utf8]{vietnam}
+      \usepackage{fancyhdr}
+
+      \pagestyle{fancy}
+      \rhead{Mèo méo meo}
+      \lhead{Hướng dẫn latex}
+      \rfoot{Page \thepage}
+
+      \begin{document}
+
+      Hello,  here  is  some  text  without  a  meaning.   This  
+      text  should  show  what  a printed text will look like at 
+      this place.  If you read this text, you will get no information.  
+      Really?  Is there no information?  Is there a difference between 
+      this ...
+
+      \end{document}
+      
    Khai báo gói
    
       \usepackage{fancyhdr}
