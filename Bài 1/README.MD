@@ -88,6 +88,23 @@
       \end{document}
    ![image](https://user-images.githubusercontent.com/79437149/119212602-b4e23c00-bae3-11eb-9b22-008d9beb4d9d.png)
    ![image](https://user-images.githubusercontent.com/79437149/119212609-bad81d00-bae3-11eb-9bbe-d4b2a78a6ac0.png)
+   #### CUSTOM THANH HEADER BẰNG GÓI
+   Khai báo gói
+   
+      \usepackage{fancyhdr}
+   
+   Các lệnh bổ trợ cho gói
+   
+      \pagestyle{fancy} Khai báo page style của gói vừa khai báo
+      \rhead{Nội dung} tiêu đề góc trên bên phải
+      \lhead{Nội dung} Tiêu đề góc trên bên trái
+      \rfoot{Nội dung}  Tiêu đề góc chân bên phải
+      \thepage Số trang
+    
+  
+
+
+
    
 
   
