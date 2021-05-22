@@ -37,6 +37,26 @@
        ...
    ### 3. Viết trang latex căn bản với tiêu đề , tác giả và ngày tháng
    ![image](https://user-images.githubusercontent.com/79437149/119212209-0210de80-bae1-11eb-9614-a9ee30964cc1.png)
+   ####
+      \documentclass[15pt]{article}
+   ##### Khai báo cấu trúc trang và font
+      \usepackage[utf8]{vietnam}
+   ##### Khai báo gói tiếng việt
+      \title{First document}
+      \author{Hubert Farnsworth \thanks{Meomeomeo} }
+      \date{February 2021}
+   ##### Lệnh khai báo tiêu đề trang , tên tác giả , ngày tháng , lời cám ơn có thể thay đổi nội dung trong dấu {} thành nội dung cần thể hiện
+      \begin{document}   
+      \end{document}
+   ##### Nội dung chính của 1 file văn bản được đặt trong *\begin{document}* và *\end{document}*
+   ##### Câu lệnh trong latex được bắt đầu bằng dấu \
+   
+         
+  
+
+      
+   
+   
 
    
    
