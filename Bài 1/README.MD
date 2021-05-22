@@ -9,10 +9,10 @@
    
    [MikTex](https://miktex.org/)
 # LATEX WEB ONLINE
-   [Overleaf](https://www.overleaf.com/)
-   [Latexbase](https://latexbase.com/)
-   [Papeeria](https://papeeria.com/)
-   [Stackexchange](https://tex.stackexchange.com/)
+   - [Overleaf](https://www.overleaf.com/)
+   - [Latexbase](https://latexbase.com/)
+   - [Papeeria](https://papeeria.com/)
+   - [Stackexchange](https://tex.stackexchange.com/)
 
 
    
