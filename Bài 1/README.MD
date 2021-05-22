@@ -37,7 +37,8 @@
        ...
    ### 3. Viết trang latex căn bản với tiêu đề , tác giả và ngày tháng
    ![image](https://user-images.githubusercontent.com/79437149/119212209-0210de80-bae1-11eb-9614-a9ee30964cc1.png)
-   ##### Câu lệnh trong latex được bắt đầu bằng dấu \
+   ##### Câu lệnh trong latex được bắt đầu bằng dấu 
+        \
    ##### Khai báo cấu trúc trang và font
       \documentclass[15pt]{article}
    ##### Khai báo gói tiếng việt
