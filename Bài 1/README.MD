@@ -33,7 +33,10 @@
    - *ulem* gói hỗ trợ định dạng gạch chân chữ: \usepackage{ulem}
    - *amsmath* gói hỗ trợ viết công thức toán học: \usepackage{amsmath}
    - *graphicx* gói hỗ trợ thêm hình ảnh cho latex: \usepackage{graphicx}
+  
    ...
+   ### 3. Viết trang latex căn bản với tiêu đề , tác giả và ngày tháng
+   
    
    
 
