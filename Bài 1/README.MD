@@ -19,11 +19,11 @@
    ### 1.Phần khai báo cấu trúc trang
          *\Documentclass[options]{Loại cấu trúc}*
    #### Phân tích:
-         Options : Tùy chọn kích cỡ phông chữ cho trang
-         Loại cấu trúc : Có nhiều loại nhưng sử dụng chủ yếu là 3 loại sau
-           - *article* phù hợp khi soạn các bài báo trong các tạp chí khoa học, các văn bản trình diễn, các báo cáo ngắn, chương trình hoạt động, thư mời, . . .
-           - *report* phù hợp khi soạn các báo cáo gồm nhiều chương, các quyển sáchnhỏ, luận văn,. . .
-           - *book* phù hợp khi soạn sách
+   ptions : Tùy chọn kích cỡ phông chữ cho trang
+   Loại cấu trúc : Có nhiều loại nhưng sử dụng chủ yếu là 3 loại sau
+     - *article* phù hợp khi soạn các bài báo trong các tạp chí khoa học, các văn bản trình diễn, các báo cáo ngắn, chương trình hoạt động, thư mời, . . .
+     - *report* phù hợp khi soạn các báo cáo gồm nhiều chương, các quyển sáchnhỏ, luận văn,. . .
+     - *book* phù hợp khi soạn sách
 
    
 
