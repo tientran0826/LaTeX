@@ -36,9 +36,14 @@
   
        ...
    ### 3. Viết trang latex căn bản với tiêu đề , tác giả và ngày tháng
+        
+        \title{Nội dung tiêu đề}
+        \author{Tên tác giả \ thanks{Nội dung} }
+        \date{Nội dung}
+        
    ![image](https://user-images.githubusercontent.com/79437149/119212209-0210de80-bae1-11eb-9614-a9ee30964cc1.png)
    
-      \documentclass[15pt]{article}
+       \documentclass[15pt]{article}
        \usepackage[utf8]{vietnam}
        \title{First document}
        \author{Hubert Farnsworth \thanks{Meomeomeo} }
@@ -66,6 +71,7 @@
       \begin{titlepage} 
       \maketitle
       \end{titlepage}
+   ### 4. Lệnh ngắt trang
 
       
    
