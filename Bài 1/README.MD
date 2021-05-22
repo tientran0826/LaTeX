@@ -17,7 +17,7 @@
       *.pdf Tệp tin xuất bản, tệp này sẽ xuất hiện sau khi bạn biên
 ## IV.CẤU TRÚC FILE LATEX
    ### 1.Phần khai báo cấu trúc trang
-         *\Documentclass[options]{Loại cấu trúc}*
+         \Documentclass[options]{Loại cấu trúc}
    #### Phân tích:
    Options : Tùy chọn kích cỡ phông chữ cho trang
    Loại cấu trúc : Có nhiều loại nhưng sử dụng chủ yếu là 3 loại sau:
