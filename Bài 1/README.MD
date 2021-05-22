@@ -34,9 +34,10 @@
    - *amsmath* gói hỗ trợ viết công thức toán học: \usepackage{amsmath}
    - *graphicx* gói hỗ trợ thêm hình ảnh cho latex: \usepackage{graphicx}
   
-   ...
+       ...
    ### 3. Viết trang latex căn bản với tiêu đề , tác giả và ngày tháng
-   
+   ![image](https://user-images.githubusercontent.com/79437149/119212209-0210de80-bae1-11eb-9614-a9ee30964cc1.png)
+
    
    
 
