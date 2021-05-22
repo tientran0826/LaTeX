@@ -75,9 +75,9 @@
       \newpage
    ### 5.Kiểu trang
       \pagestyle{kiểu}
-   *plain* đánh và xuất số trang ở giữa phần chân ở cuối trang văn bản. Đây là kiểu định dạng mặc định.
-   *headings* xuất tiêu đề của chương hiện tại và số thứ tự của trang văn bản ở vùng tiêu đề của trang; đồng thời, phần chân của trang được để trống.
-   *empty* đặt cả phần tiêu đề và phân chân của trang là rỗng.
+   - *plain* đánh và xuất số trang ở giữa phần chân ở cuối trang văn bản. Đây là kiểu định dạng mặc định.
+   - *headings* xuất tiêu đề của chương hiện tại và số thứ tự của trang văn bản ở vùng tiêu đề của trang; đồng thời, phần chân của trang được để trống.
+   - *empty* đặt cả phần tiêu đề và phân chân của trang là rỗng.
 
 
       
