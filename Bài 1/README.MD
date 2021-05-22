@@ -37,6 +37,18 @@
        ...
    ### 3. Viết trang latex căn bản với tiêu đề , tác giả và ngày tháng
    ![image](https://user-images.githubusercontent.com/79437149/119212209-0210de80-bae1-11eb-9614-a9ee30964cc1.png)
+   
+      \documentclass[15pt]{article}
+      \usepackage[utf8]{vietnam}
+      \title{First document}
+      \author{Hubert Farnsworth \thanks{Meomeomeo} }
+      \date{February 2021}
+
+      \begin{document}   
+      \begin{titlepage} 
+      \maketitle
+       \end{titlepage}
+      \end{document}
    ##### Câu lệnh trong latex được bắt đầu bằng dấu 
         \
    ##### Khai báo cấu trúc trang và font
