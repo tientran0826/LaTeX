@@ -25,7 +25,7 @@
    - *report* phù hợp khi soạn các báo cáo gồm nhiều chương, các quyển sáchnhỏ, luận văn,. . .
    - *book* phù hợp khi soạn sách
    ### 2.Phần khai báo cấu các gói thư viện 
-         \unpackage[options]{tên gói lệnh}
+         \usepackage[options]{tên gói lệnh}
    #### Phân tích:
    Options: Những tùy chỉnh kèm thêm gói (có thể không bắt buộc)
    Tên gói lệnh: Tùy nhu cầu người sử dụng , có nhiều gói hỗ trợ các tính năng đặc biệt trong latex
