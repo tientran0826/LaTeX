@@ -24,6 +24,22 @@
    - *article* phù hợp khi soạn các bài báo trong các tạp chí khoa học, các văn bản trình diễn, các báo cáo ngắn, chương trình hoạt động, thư mời, . . .
    - *report* phù hợp khi soạn các báo cáo gồm nhiều chương, các quyển sáchnhỏ, luận văn,. . .
    - *book* phù hợp khi soạn sách
+   ### 2.Phần khai báo cấu các gói thư viện 
+         \unpackage[options]{tên gói lệnh}
+   #### Phân tích:
+   Options: Những tùy chỉnh kèm thêm gói (có thể không bắt buộc)
+   Tên gói lệnh: Tùy nhu cầu người sử dụng , có nhiều gói hỗ trợ các tính năng đặc biệt trong latex
+   - *vietnam* gói hỗ trợ tiếng việt kèm theo option utf8:  \usepackage[utf8]{vietnam}
+   - *ulem* gói hỗ trợ định dạng gạch chân chữ: \usepackage{ulem}
+   - *amsmath* gói hỗ trợ viết công thức toán học: \usepackage{amsmath}
+   - *graphicx* gói hỗ trợ thêm hình ảnh cho latex: \usepackage{graphicx}
+   ...
+   
+   
+
+
+
+
 
    
 
