@@ -1,0 +1,20 @@
+\documentclass[a4paper,15pt]{article}
+\usepackage[utf8]{vietnam}
+\usepackage{ulem}
+\usepackage{color}
+\usepackage[left = 4cm , right = 4cm, top = 4cm, bottom = 4cm]{geometry}
+\renewcommand{\baselinestretch}{1.5cm}
+\setlength{\parskip}{0.05cm}
+\setlength{\parindent}{1cm}
+\pagecolor{yellow}
+\begin{document}
+    \begin{flushleft}
+        \textbf{\textcolor{red}{\Huge This is the text in first paragraph. This is the text in first paragraph. This is the text in first paragraph.}}
+    \end{flushleft}
+    \begin{flushright}
+        \noindent   \text{This is the text in first paragraph. This is the text in first paragraph. This is the text in first paragraph.}
+    \end{flushright}
+    \begin{center}
+        \textcolor{blue}{\uline{This is another paragraph, contains some text to test the paragraph interlining. paragraph indentation and some other features. Also, is casy to see how new paragraphs are defined by simply entering a double blank space.}}
+    \end{center}
+\end{document}
