@@ -1,0 +1,41 @@
+\documentclass[a4paper]{article}
+\usepackage[utf8]{vietnam}
+\usepackage[left=3.00cm, right=2.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{ulem}
+\pagestyle{fancy}
+
+\fancyhf{}
+
+\setlength{\parskip}{2cm}
+\renewcommand{\baselinestretch}{2}
+\setlength{\parindent}{2cm}
+
+\title{First document}
+\author{Hubert Farnsworth \thanks{funded by Meomeomeo}}
+\date{February 2021}
+
+\rhead{Mèo Méo Meo}
+\lhead{Hướng dẫn latex}
+\chead{Dự Án Latex}
+\cfoot{Trang \thepage}
+
+
+\begin{document}
+\pagecolor{yellow}
+    \begin{titlepage}
+        \maketitle
+    \end{titlepage}
+    \begin{flushright}
+     Hello,  here  is  some  text without  a  meaning. This text  should  show  what  a printed text will look like at this place. If you read this text, you will get no information. Really?  Is there no information? Is there a difference between this ...
+    \end{flushright}
+    \begin{flushleft}
+    \indent \textcolor{red}{\Huge{Hello,  here  is  some  text without  a  meaning. This text  should  show  what  a printed text will look like at this place. If you read this text, you will get no information. Really?  Is there no information? Is there a difference between this ...}}
+    \end{flushleft}
+    \begin{center}
+        \noindent\textit{\textbf{\uwave{Hello,  here  is  some  text without  a  meaning. This text  should  show  what  a printed text will look like at this place. If you read this text, you will get no information. Really?  Is there no information? Is there a difference between this ...}}}
+    \end{center}
+    
+    
+\end{document}
