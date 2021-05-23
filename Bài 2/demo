@@ -1,0 +1,14 @@
+\documentclass[15pt]{article}
+\usepackage[utf8]{vietnam}
+\usepackage{ulem}
+\usepackage{color}
+\usepackage[left = 3cm , right = 2cm, top = 2cm, bottom = 2cm]{geometry}
+\renewcommand{\baselinestretch}{1.5}
+
+\setlength{\parindent}{1cm}
+
+\begin{document} 
+    \indent \textbf{\textit{\uline{ Hello,  here  is  some  text without  a  meaning. This text  should  show  what  a printed text will look like at this place.  If you read this text, you will get no information. Really?  Is there no information? Is there a difference between this ...}}}
+    \[3\baselineskip]
+    \unindent \textrm{Hello,  here  is  some  text  without  a  meaning.   This text  should  show  what  a printed text will look like at this place.  If you read this text, you will get no information. Really?  Is there no information? Is there a difference between this ...}
+\end{document}
