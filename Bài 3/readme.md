@@ -1,6 +1,12 @@
 # TÓM TẮT CÂU LỆNH BÀI 3
 ## 1.Chữ in đậm
-    \textbf{Nội dung}
+    Các bạn có thể thêm các biểu thức cơ bản bằng 3 cách sau :
+    $ biểu thức toán học $
+    \( biểu thức toán học \)
+    \begin{math}
+    	biểu thức toán học
+     \end{math}   ![image](https://user-images.githubusercontent.com/80311582/120072714-60305980-c0bf-11eb-9603-633be2e3dd00.png)
+
 ## 2.Chữ in nghiêng
     \textit{Nội dung}
 ## 3.Chữ gạch dưới
