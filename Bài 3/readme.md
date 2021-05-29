@@ -11,6 +11,7 @@
     Chỉ số dưới : Shift + -
     Chỉ số trên : Shift + 6
    ![Demo](https://i.imgur.com/EKSLatn.png)
+   
     Nếu các chỉ số trên và chỉ số dưới dài hơn 1 ký tự thì chúng ta phải gói gọn trong dấu ngoặc nhọn .
 
 
