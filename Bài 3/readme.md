@@ -1,4 +1,4 @@
-# TÓM TẮT CÂU LỆNH BÀI 2
+# TÓM TẮT CÂU LỆNH BÀI 3
 ## 1.Chữ in đậm
     \textbf{Nội dung}
 ## 2.Chữ in nghiêng
