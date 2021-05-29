@@ -22,8 +22,9 @@
 
 ## 3.DẤU NGOẶC TRONG LATEX
  ![Demo](https://i.imgur.com/ahhukRJ.png)
-## 4.Gói hỗ trợ gạch dưới
-    \usepackage{ulem}
+## 4.PHÂN SỐ VÀ NHỊ THỨC
+
+   ![Demo](https://i.imgur.com/qkodLpe.png)
 ### Câu lệnh bổ sung cho gói
   Gạch chân
        
