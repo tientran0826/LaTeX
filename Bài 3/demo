@@ -1,0 +1,105 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{amsmath}
+
+\title{DEMO EXAMPLE}
+\author{Phạm Trí}
+\date{May 2021}
+
+\usepackage{natbib}
+\usepackage{graphicx}
+
+\begin{document}
+
+\maketitle
+Các cách để thêm biểu thức toán học vào Latex:
+\
+$E=mc^2$
+\
+(E=mc^2)
+\
+\begin{math}
+    E=mc^2
+\end{math}
+\
+Chỉ số trên và chỉ số dưới:
+\
+[ a_1^2 + a_2^2 = a3^2 ]
+\
+[ x^{2 \alpha} - 1 = y{ij} + y{ij}  ]
+\
+[ (a^n)^{r+s} = a^{nr+ns}  ]
+\
+Toán tử dùng chỉ số trên và chỉ số dưới :
+[ \sum{i=1}^{\infty} \frac{1}{n^s} 
+= \prodp \frac{1}{1 - p^{-s}} ]
+\
+a{ni}    {\displaystyle a{n{i}}} 
+\
+\int{i=1}^n    {\displaystyle \int {i=1}^{n}} 
+\
+\sum{i=1}^{\infty}    {\displaystyle \sum {i=1}^{\infty }}
+\
+\prod{i=1}^n    {\displaystyle \prod {i=1}^{n}}
+\
+\cup{i=1}^n    {\displaystyle \cup {i=1}^{n}}
+\
+\cap{i=1}^n    {\displaystyle \cap {i=1}^{n}}
+\
+\oint{i=1}^n    {\displaystyle \oint {i=1}^{n}}
+\
+\coprod{i=1}^n
+\newpage
+[\huge{\textbf{Dấu ngoặc trong Latex:}}]
+\
+(x+y)
+\
+Brackets; square brackets    [x+y]
+\
+Braces; curly brackets    { x+y }
+\
+Angle brackets    \langle x+y \rangle
+\
+Pipes; vertical bars    |x+y|
+\
+Double pipes    |x+y|
+\
+\textit{\textbf{Đối với 1 biểu thức toán học dài thì :}}
+\
+[ 
+y  = 1 + & \left(  \frac{1}{x} + \frac{1}{x^2} + \frac{1}{x^3} + \ldots \right. \
+  & \quad \left. + \frac{1}{x^{n-1}} + \frac{1}{x^n} \right)
+]
+\
+Có thể dễ dàng điều chỉnh size của dấu ngoặc :
+\
+[
+ \Bigg \langle 3x+7 \bigg \rangle
+]
+\newpage
+[\huge{\textbf{Phân số và nhị thức}}]
+\
+Ví dụ : 
+\
+[
+    \binom{n}{k} = \frac{n!}{k!(n-k)!}
+]
+\
+Có thể làm đẹp phân số bằng các lệnh sau :
+\
+\dfrac{P(x)}{Q(x)}
+\
+[ f(x)=\frac{P(x)}{Q(x)} \ \ \textrm{and} 
+\ \ f(x)=\textstyle\frac{P(x)}{Q(x)} ]
+\
+Phân số liên tiếp:
+\
+[ \frac{1+\frac{a}{b}}{1+\frac{1}{1+\frac{1}{a}}} ]
+\
+[
+  a_0+\cfrac{1}{a_1+\cfrac{1}{a_2+\cfrac{1}{a_3+\cdots}}}
+]
+
+
+
+\end{document}
