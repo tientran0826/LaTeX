@@ -57,15 +57,8 @@
  Xuống dòng nhiều lần
  
      \\[số dòng\baselineskip]
- ### 7.Tùy chỉnh khoảng cách tab và khoảng cách đoạn
- Tùy chỉnh khoảng cách tab
- 
-     \setlength{\parindent}{1cm}
-     
- *Trong đó: 1cm có thể thay đổi thành khoảng cách tùy chỉnh*
- Tùy chỉnh khoảng cách giữa các đoạn
-     
-     \setlength{\parskip}{1cm}
+ ### 7.DANH SÁCH CÁC CHỮ CÁI HY LẠP VÀ KÝ HIỆU TOÁN HỌC!
+   ![Demo](https://i.imgur.com/ygc6FRQ.png)
   # Tài liệu tham khảo
    https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols
    
