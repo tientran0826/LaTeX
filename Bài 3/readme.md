@@ -1,5 +1,5 @@
 # TÓM TẮT CÂU LỆNH BÀI 3
-## 1.Biểu thức toán học cơ bản
+## 1.BIỂU THỨC TOÁN HỌC CƠ BẢN
     - Các bạn có thể thêm các biểu thức cơ bản bằng 3 cách sau:
          $ biểu thức toán học $
          
@@ -9,7 +9,7 @@
     	    biểu thức toán học
          \end{math}
 
-## 2.Chỉ số trên dưới
+## 2.CHỈ SỐ TRÊN DƯỚI
     Chỉ số dưới : Shift + -
     Chỉ số trên : Shift + 6
    ![Demo](https://i.imgur.com/EKSLatn.png)
