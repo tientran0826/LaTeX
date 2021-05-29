@@ -10,7 +10,7 @@
 ## Hình thức giảng dạy
     Online qua Discord
     
-![Hình ảnh buổi học](![image](https://user-images.githubusercontent.com/79437149/120064185-3c581e00-c095-11eb-96bc-d81f57e4848c.png))
+![Hình ảnh buổi học](https://user-images.githubusercontent.com/79437149/120064211-4bd76700-c095-11eb-9c4f-2fb0ad9f4d72.png)
 
 ## Playlist Video giảng dạy
    [Youtube](https://youtube.com/playlist?list=PLB809sb72oIFgm3hluJVWeUnyRMZfRDl7)
