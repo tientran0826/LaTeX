@@ -68,9 +68,12 @@
      \setlength{\parskip}{1cm}
   # Tài liệu tham khảo
    https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols
-    https://www.overleaf.com/learn/latex/Mathematical_expressions
-    https://www.overleaf.com/learn/latex/Brackets_and_Parentheses
-    https://www.overleaf.com/learn/latex/Subscripts_and_superscripts
+   
+   https://www.overleaf.com/learn/latex/Mathematical_expressions
+    
+   https://www.overleaf.com/learn/latex/Brackets_and_Parentheses
+   
+   https://www.overleaf.com/learn/latex/Subscripts_and_superscripts
 
   
 
